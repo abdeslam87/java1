@@ -3,20 +3,11 @@ package practice;
 public class calculator {
 
 
-
-
     public static void main(String[] args) {
 
 
-
-
-
-
-
-
-
     }
-    }
+}
 
 
 // create 2 calculators

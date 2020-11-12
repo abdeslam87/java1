@@ -1,9 +1,8 @@
 package practice;
 
-public class Boolean {
+public class Learn {
     public static void main(String[] args) {
-        System.out.println();
-
+        String message = "message";
 
     }
 }

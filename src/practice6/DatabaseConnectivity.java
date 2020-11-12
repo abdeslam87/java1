@@ -1,6 +1,7 @@
 package practice6;
 
 import java.sql.*;
+
 public class DatabaseConnectivity {
 
 

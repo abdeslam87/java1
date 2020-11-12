@@ -9,18 +9,18 @@ public class LearnScanner {
 
     public static void main(String[] args) {
         //classname inputname = new constructor();
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("enter your name");
         String name = input.nextLine();
-        System.out.println("my name is "+name);
+        System.out.println("my name is " + name);
 
         System.out.println("enter your age ");
         int age = input.nextInt();
-        System.out.println("my age is "+age);
+        System.out.println("my age is " + age);
 
         System.out.println("yes present in class");
-        boolean yespresentinclass=input.nextBoolean();
-        System.out.println(" student is present "+yespresentinclass);
+        boolean yespresentinclass = input.nextBoolean();
+        System.out.println(" student is present " + yespresentinclass);
 
 
         // close scanner object
@@ -28,13 +28,7 @@ public class LearnScanner {
         input.close();
 
 
-
-
-
-
     }
-
-
 
 
 }
