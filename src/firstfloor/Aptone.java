@@ -9,8 +9,8 @@ public class Aptone {
 
 
         String name = "abdeslam";
-        String age = "33";
-        String profession = "developper";
+        int age = 33;
+        String profession = "software engineer";
         System.out.println(name + "  " + age + "  " + profession);
 
 
